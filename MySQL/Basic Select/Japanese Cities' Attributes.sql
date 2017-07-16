@@ -1,0 +1,3 @@
+SELECT *
+FROM CITY
+WHERE CountryCode LIKE 'JPN';
